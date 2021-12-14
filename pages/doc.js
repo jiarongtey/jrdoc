@@ -67,7 +67,7 @@ export default function Documentation() {
             everything you need to know to use Next.js.
           </p>
           <p>
-            If you have questions about anything related to Next.js, you're
+            If you have questions about anything related to Next.js, you are
             always welcome to ask our community on GitHub Discussions.
           </p>
         </div>
