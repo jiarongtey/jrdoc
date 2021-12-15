@@ -66,5 +66,6 @@ export default function SideBar(props) {
   } else if (parent == "react") {
   } else if (parent == "nodejs") {
   } else {
+    return <></>;
   }
 }
