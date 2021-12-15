@@ -1,5 +1,5 @@
 import Head from "next/head";
-import SideBar from "../../components/sidebar";
+import SideBar from "../../components/sidebar2";
 import Image from "next/image";
 import { motion } from "framer-motion";
 export default function UML() {

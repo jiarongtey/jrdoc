@@ -1,7 +1,8 @@
 import Head from "next/head";
-import SideBar from "../../components/sidebar";
 import Image from "next/image";
 import { motion } from "framer-motion";
+import SideBar from "../../components/sidebar2";
+
 export default function Princples() {
   return (
     <div

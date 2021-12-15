@@ -1,5 +1,5 @@
 import Head from "next/head";
-import SideBar from "../../components/sidebar";
+import SideBar from "../../components/sidebar2";
 import Code from "../../components/code";
 import { motion } from "framer-motion";
 

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
 import { motion } from "framer-motion";
-import SideBar from "../components/sideBar";
+import SideBar from "../components/sidebar2";
 
 export default function Documentation() {
   return (
