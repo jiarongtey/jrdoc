@@ -32,9 +32,7 @@ export default function Home() {
             }}
             transition={{ repeat: Infinity, duration: 3 }}
           >
-            <span className={styles.title + "  font-black"}>
-              Junior developers
-            </span>
+            <span className={styles.title + "  font-black"}>Art of code</span>
           </motion.div>
         </motion.div>
         <motion.div
