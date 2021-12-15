@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Head from "next/head";
-import SideBar from "../components/sideBar";
 import { motion } from "framer-motion";
+import SideBar from "../components/sideBar";
 
 export default function Documentation() {
   return (
@@ -47,7 +47,7 @@ export default function Documentation() {
           concepts that power it:
         </p>
 
-        <div className="grid grid-cols-2 gap 4">
+        <div className="grid grid-cols-2 gap-4">
           <div className="card shadow-lg hover:shadow-gray-600	">
             <Link href="/doc/oop">
               <a>

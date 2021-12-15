@@ -1,6 +1,6 @@
-import Code from "../../components/code";
 import Head from "next/head";
 import SideBar from "../../components/sidebar";
+import Code from "../../components/code";
 import { motion } from "framer-motion";
 
 export default function ObjectOrientedProgramming() {
